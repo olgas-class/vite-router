@@ -6,6 +6,10 @@ export default {
                 {
                     title: "Home",
                     routeName: "home",
+                },
+                {
+                    title: "About",
+                    routeName: "about",
                 }
             ]
         }
