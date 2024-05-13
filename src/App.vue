@@ -11,7 +11,7 @@ export default {
 
 <template>
   <AppHeader />
-  <h1>Ciao</h1>
+  <router-view></router-view>
 </template>
 
 <style lang="scss"></style>
